@@ -7,5 +7,5 @@ Installation
 ------------
 Open a terminal and type:  
 ```
-D=~/Library/Developer/Xcode/UserData/FontAndColorThemes && mkdir -p $D && cd $D && curl -O "https://raw.githubusercontent.com/redcode/Code-Transfusion/master/Code Transfusion.xccolortheme"
+ D=~/Library/Developer/Xcode/UserData/FontAndColorThemes && mkdir -p $D && cd $D && curl https://raw.githubusercontent.com/redcode/Code-Transfusion/master/Code%20Transfusion.xccolortheme -o "Code Transfusion.xccolortheme"
 ```
