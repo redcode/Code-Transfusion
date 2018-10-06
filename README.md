@@ -1,7 +1,7 @@
 # Code Transfusion
 This is my color theme for Xcode. It's a bit crazy and several people have reported epilepsy symptoms after using it... so beware.
 
-![alt tag](Code Transfusion.png)
+![alt tag](https://github.com/redcode/Code-Transfusion/blob/master/Code%20Transfusion.png)
 
 Installation
 ------------
